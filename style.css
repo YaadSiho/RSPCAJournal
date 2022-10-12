@@ -1,0 +1,52 @@
+*{
+    font-family: "Trebuchet MS", Tahoma, sans-serif;
+}
+
+/*Styling the navbar*/
+.navbarExtra{
+    background-color: #0099cc;
+    color: white;
+}
+
+.nav{
+   padding-left: 19.5%;
+}
+
+.nav li a{ 
+    width: 100%;
+    color: white;
+    height: 105%;
+    border-right: 2px solid white;
+}
+
+.d-flex{
+    height: 90%;
+    padding: 0.5% 1%;
+}
+
+.d-flex .btn{
+    background-color: #0099cc;
+    color: white;
+    border: 1px solid white;
+}
+
+/*second navigation*/
+.navSec2 img{
+    width: 20%;
+}
+.navSec2{
+    padding: 1%;
+    padding-left: 25%;
+}
+.navSec2 a{
+    margin: 1.5% 0.5%;
+    padding: 1%;
+    border: none;
+}
+
+
+/*styling main content*/
+section h1, p{
+    margin: 1.5% 0;
+    text-align: center;
+}
